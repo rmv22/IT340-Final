@@ -1,0 +1,81 @@
+
+dody{
+  margin:0px;
+  background-color: #E2E2E2;
+}
+fieldset{
+  width:40%;
+  background-color: #969090;
+  border-radius: 8px;
+  margin: 0px auto;
+  margin-top:20px;
+  color:#A90505;
+margin-top: 100px;   
+}
+
+legend{
+  background-color: #A90505;
+  margin: 0px auto;
+}
+
+#button{
+  border-radius: 5px;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: white;
+  background-color:rgb(169, 5, 5);
+  padding: 6px 62px;
+  text-align: left; 
+  margin: 0px auto;
+}
+
+label{
+  width: 110px;
+  float: left;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  background-color: #A90505;
+}
+
+#btn{
+  text-align: center;
+}
+#instruct{
+  text-align:center;
+ font-family: Arial, Helvetica, sans-serif;
+ }
+p{
+ font-size: 25px; 
+ font-weight: bold;
+ font-family: "Arial Black", Gadget, sans-serif;
+}
+.Head{
+  height:100px;
+    border-radius:10px;
+   -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 5s infinite;
+    height: 75px;
+    padding-top: 10px;
+    color: #101F6F;
+    font-size: -webkit-xxx-large;
+    font-weight: bolder;
+    text-align: center;
+    border-bottom: 5px solid red;
+    font-size: 75px;
+}
+a {
+    font-weight: bold;
+   font-variant: small-caps;
+font-size: 30px;
+float: right;
+background: rgba(207, 129, 123, 0.76);
+font-color: red;
+color: #050F57;
+text-decoration: none;
+padding: 10px;
+ border-radius: 10px;
+}
